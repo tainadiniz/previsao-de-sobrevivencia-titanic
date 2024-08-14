@@ -20,4 +20,7 @@ O aplicativo foi desenvolvido com as seguintes ferramentas e bibliotecas:
 Para rodar este projeto localmente, você precisará das seguintes bibliotecas:
 
 ```python
-pip install streamlit scikit-learn pandas yellowbrick
+pip install streamlit
+pip install scikit-learn
+pip install pandas
+pip install yellowbrick
