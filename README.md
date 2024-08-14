@@ -24,3 +24,18 @@ pip install streamlit
 pip install scikit-learn
 pip install pandas
 pip install yellowbrick
+
+### Conjunto de Dados
+
+Os dados utilizados neste projeto foram extraídos do repositório [hbiostat.org](https://hbiostat.org/data/), e contêm informações detalhadas sobre os passageiros do Titanic.
+
+### Pré-processamento e Normalização dos Dados
+
+Antes de treinar o modelo de regressão logística, foi necessário realizar o pré-processamento e a normalização dos dados
+
+- **Exclusão de Colunas Irrelevantes**: As colunas `name`, `ticket`, `home.dest`, `boat`, `body`, e `cabin` foram excluídas do conjunto de dados, pois não agregam valor direto ao modelo de classificação.
+
+- **Tratamento de Variáveis Categóricas**: As variáveis categóricas foram convertidas em variáveis dummy, facilitando a utilização do modelo de regressão logística.
+
+- **Normalização das Variáveis Numéricas**: As variáveis numéricas como `age`, `sibsp`, `parch`, e `fare` foram normalizadas utilizando a técnica de Min-Max Scaling (ou padronização, dependendo da configuração), o que ajuda a melhorar o desempenho do modelo.
+
