@@ -38,6 +38,9 @@ Antes de treinar o modelo de regressão logística, foi necessário realizar o p
 - **Tratamento de Variáveis Categóricas**: As variáveis categóricas foram convertidas em variáveis dummy, facilitando a utilização do modelo de regressão logística.
 
 - **Normalização das Variáveis Numéricas**: As variáveis numéricas como `age`, `sibsp`, `parch`, e `fare` foram normalizadas utilizando a técnica de Min-Max Scaling (ou padronização, dependendo da configuração), o que ajuda a melhorar o desempenho do modelo.
+## Explicação das Informações de Previsão:
+
+A partir das informações fornecidas pelo usuário (sexo e idade), o código normaliza esses dados e utiliza um modelo de classificação para prever se essa pessoa teria sobrevivido ou não ao naufrágio do Titanic. A previsão é apresentada ao usuário junto com a probabilidade estimada de sobrevivência. O usuário pode então decidir se deseja realizar outra simulação ou encerrar o programa.
 
 ## Contribuição
 
