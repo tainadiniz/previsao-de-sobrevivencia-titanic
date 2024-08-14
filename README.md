@@ -39,3 +39,14 @@ Antes de treinar o modelo de regressão logística, foi necessário realizar o p
 
 - **Normalização das Variáveis Numéricas**: As variáveis numéricas como `age`, `sibsp`, `parch`, e `fare` foram normalizadas utilizando a técnica de Min-Max Scaling (ou padronização, dependendo da configuração), o que ajuda a melhorar o desempenho do modelo.
 
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## Contato
+
+Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar um e-mail ou me conectar no LinkedIn:
+
+- **E-mail**: [tainadiniz.9@gmail.com](mailto:tainadiniz.9@gmail.com)
+- **LinkedIn**: [Tainá Diniz](https://www.linkedin.com/in/tain%C3%A1-diniz-68a711270/)
+
