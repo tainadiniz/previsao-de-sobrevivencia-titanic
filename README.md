@@ -24,8 +24,8 @@ pip install streamlit
 pip install scikit-learn
 pip install pandas
 pip install yellowbrick
-
-### Conjunto de Dados
+```
+## Conjunto de Dados
 
 Os dados utilizados neste projeto foram extraídos do repositório [hbiostat.org](https://hbiostat.org/data/), e contêm informações detalhadas sobre os passageiros do Titanic.
 
