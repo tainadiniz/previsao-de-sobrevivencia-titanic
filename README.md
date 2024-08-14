@@ -1,4 +1,4 @@
-# Titanic Survival Prediction App
+# Titanic Survival Prediction App 🚢
 
 Este repositório contém meu primeiro aplicativo desenvolvido em Python, utilizando Streamlit, que permite classificar se uma pessoa, com base em determinados perfis, sobreviveria ou não ao naufrágio do Titanic.
 
