@@ -4,7 +4,7 @@ Este repositório contém meu primeiro aplicativo desenvolvido em Python, utiliz
 
 ## Introdução
 
-Sou estudante de Ciência de Dados na Universidade Federal da Paraíba (UFPB) e desenvolvi este aplicativo durante o 5º período do meu curso, enquanto aprendia sobre regressão logística em uma aula de aprendizagem supervisionada. O objetivo principal deste projeto é aplicar um modelo de classificação para prever a sobrevivência dos passageiros do Titanic com base em suas características.
+Sou estudante de Ciência de Dados para Negócios na Universidade Federal da Paraíba (UFPB) e desenvolvi este aplicativo durante o 5º período do meu curso, enquanto aprendia sobre regressão logística em uma aula de aprendizagem supervisionada. O objetivo principal deste projeto é aplicar um modelo de classificação para prever a sobrevivência dos passageiros do Titanic com base em suas características.
 
 ## Sobre o Projeto
 
