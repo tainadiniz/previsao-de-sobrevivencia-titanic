@@ -10,7 +10,7 @@ Sou estudante de Ciência de Dados para Negócios na Universidade Federal da Par
 
 O aplicativo foi desenvolvido com as seguintes ferramentas e bibliotecas:
 
-- **Streamlit**: Para criação da interface web interativa.
+
 - **Scikit-learn**: Para implementação do modelo de regressão logística.
 - **Pandas**: Para manipulação e análise dos dados.
 - **Yellowbrick**: Para visualização das importâncias das features no modelo.
@@ -20,7 +20,6 @@ O aplicativo foi desenvolvido com as seguintes ferramentas e bibliotecas:
 Para rodar este projeto localmente, você precisará das seguintes bibliotecas:
 
 ```python
-pip install streamlit
 pip install scikit-learn
 pip install pandas
 pip install yellowbrick
